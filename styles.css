@@ -1,0 +1,31 @@
+#demo{
+    text-align: center;
+    font-size: 7rem;
+    font-family: 'Righteous', cursive;
+}
+
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#Ramadan-Logo{
+    margin-top: 5%;
+    width: 300px;
+}
+
+.img{
+    text-align: center;
+}
+
+body{
+    background-color: #f6f5f5;
+    color: #276678;
+    font-family: 'Righteous', cursive;
+}
+
+#third-para{
+    text-align: center;
+    font-size: 30px;
+}
