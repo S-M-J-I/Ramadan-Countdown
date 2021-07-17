@@ -1,6 +1,6 @@
 
 function countdown(){
-    let countDownDate = new Date("2021-04-13").getTime();
+    let countDownDate = new Date("2021-07-21").getTime();
 
     let x = setInterval( function() {
 
